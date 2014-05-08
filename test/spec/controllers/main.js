@@ -3,7 +3,7 @@
 describe('Controller: MainCtrl', function () {
 
   // load the controller's module
-  beforeEach(module('acapulcoApp'));
+  beforeEach(module('alloggiatiwebApp'));
 
   var MainCtrl,
     scope;

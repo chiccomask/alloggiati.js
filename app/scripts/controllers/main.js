@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('acapulcoApp')
+angular.module('alloggiatiwebApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
